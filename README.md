@@ -1,24 +1,51 @@
-Over the last part of this course, you’ll use several of the technologies that social networking platforms use in their full-stack applications. Because the foundation of these applications is data, it’s important that you understand how to build and structure the API first.
+# Social Network Application
 
-Your challenge is to build an API for a social network web application where users can share their thoughts
-react to friends’ thoughts
-create a friend list. 
+## Table of Contents
 
-You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the Express.jsLinks to an external site. and MongooseLinks to an external site. packages, you may also optionally use a JavaScript date library of your choice or the native JavaScript Date object to format timestamps.
+* [Description](#description)
+* [Links](#links)
+* [Purpose](#purpose)
+* [Screenshots](#screenshots)
+* [Video](#video)
+* [Technologies Used](#technologies)
+* [Licence](#license)
 
-Because this application won’t be deployed, you’ll also need to create a walkthrough video that demonstrates its functionality and all of the following acceptance criteria being met. You’ll need to submit a link to the video and add it to the README of your project.
 
-User Story
-AS A social media startup
-I WANT an API for my social network that uses a NoSQL database
-SO THAT my website can handle large amounts of unstructured data
-Acceptance Criteria
-GIVEN a social network API
-WHEN I enter the command to invoke the application
-THEN my server is started and the Mongoose models are synced to the MongoDB database
-WHEN I open API GET routes in Insomnia for users and thoughts
-THEN the data for each of these routes is displayed in a formatted JSON
-WHEN I test API POST, PUT, and DELETE routes in Insomnia
-THEN I am able to successfully create, update, and delete users and thoughts in my database
-WHEN I test API POST and DELETE routes in Insomnia
-THEN I am able to successfully create and delete reactions to thoughts and add and re
+## Description
+
+This application serves as an API for social network that uses a NoSQL database, and  can handle large amounts of unstructured data
+## Links
+<a href="https://github.com/ColumbiaCoding/antisocialNetwork.git">Link to Github Repo</a>
+
+
+## Purpose
+
+Create the framework for a social network that can handle large amounts of unstructured data
+
+## Screenshots
+
+<img src="./assets/images/image.png">
+
+## Video
+
+<a href="https://drive.google.com/file/d/1WeN9vkFiY5b225xs5hFzBbV393V1bsEe/view">Link to Video</a>
+
+
+## Technologies
+
+<img src="https://img.shields.io/badge/Built%20with-HTML5-blue">
+
+<img src="https://img.shields.io/badge/Built%20with-CSS3-blue">
+
+<img src="https://img.shields.io/badge/Built%20with-Javascript-blue">
+
+
+<img src="https://img.shields.io/badge/Built%20with-Node-blue">
+
+<img src="https://img.shields.io/badge/Built%20with-Express-blue">
+
+
+## License
+
+<img src="https://img.shields.io/badge/license-MIT-blue">
+
